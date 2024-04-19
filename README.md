@@ -2,7 +2,7 @@ DELAYS & CANCELLATIONS: UNDERSTANDING THE PANDEMIC'S INFLUENCE ON AIR TRAVEL PRO
 
 GitHub Repository & Branches https://github.com/aradar1/Project-1---Columbia
 
-Arzoo Fatima - ArzooF Cruzald Boholst - cruz_branch Derrick Smith - D3Smee Justin Lent - JLent_branch Genesis Ruiz - gjruiz_branch
+Arzoo Fatima - ArzooF_branch Cruzald Boholst - cruz_branch Derrick Smith - derrick_branch Justin Lent - JLent_branch Genesis Ruiz - genesis_branch
 
 SUMMARY Our project centered around flight cancellations and delays spanning from 2019 to 2023. Utilizing a dataset obtained from Kaggle, we preprocessed and cleansed the data to focus solely on delays and cancellations, ensuring relevance in our analyses. We also correlated the flight data with Covid-19 statistics from an external API tracking case numbers. We organized our analysis by addressing the top 5 airlines, states, and cities, as well as investigating daily, monthly, and yearly cancellation trends. This allowed us to generate visualizations that revealed trends.
 
